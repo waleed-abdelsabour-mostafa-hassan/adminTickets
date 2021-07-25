@@ -1,0 +1,125 @@
+/* Dropdown-user */
+.navbar-top-links .dropdown-user
+{
+    right: 0;
+}
+/* Breadcrumb  */
+.breadcrumb
+{
+    padding: 18px 15px;
+    background-color: #FFF;
+}
+/* Add product btn */
+#addnewproduct
+{
+    padding: 8px;
+    border-radius: 0;
+}
+/* Product img */
+#productimg
+{
+    width:90px;
+    height:70px;
+}
+/* Create Product */
+.createpro
+{
+    border-radius: 0;
+    margin-top: 10px;
+}
+.sumpo
+{
+    border-radius: 0;
+    margin: 40px 100px;
+}
+.labelo
+{
+    margin-top: 25px;
+}
+.selecton
+{
+    padding-bottom: 0;
+}
+
+
+
+/* Confirm Delete */
+.actions #Conforming
+{
+    position: relative;
+    float: left;
+    padding: 0;
+    text-align: center;
+    list-style: none;
+    background-color: #fff;
+    border: 1px solid silver;
+    border-radius: 4px;
+    min-width: 250px;
+}
+.actions #Conforming li
+{
+    padding: 3px;
+}
+ .actions #Conforming #title
+{
+    color: #fff;
+    background-color: #60B6E6;
+}
+.actions #Conforming #options #canceldelete
+{
+    background-color: #0b58a2;
+    border: none;
+    color: #fff;
+}
+.actions #Conforming #options #canceldelete a
+{
+    text-decoration: none;
+    color: #fff;
+}
+.actions #Conforming #options #canceldelete:hover
+{
+    background-color: rgba(11, 93, 185, 0.77);
+}
+.actions #Conforming #options #conformdelete
+{
+    background-color: #D9534F;
+    border: none;
+    color: #fff;
+}
+.actions #Conforming #options #conformdelete:hover
+{
+    background-color: #be4f4b;
+}
+/*******************/
+/* select */
+.select2-container--default .select2-selection--multiple .select2-selection__clear
+{
+    float: left;
+}
+.select2-container--default .select2-selection--multiple .select2-selection__rendered li
+{
+    float: right;
+    font-size: 17px;
+}
+.select2-container--default .select2-search--inline .select2-search__field
+{
+    height: 34px;
+    text-align: right;
+    padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.3333333;
+    border-radius: 0;
+}
+.select2-container--default.select2-container--focus .select2-selection--multiple
+{
+    border-radius: 0;
+    border: 1px solid #ccc;
+}
+.select2-container
+{
+    border-radius: 0;
+    text-align: right;
+    float: left;
+    /*margin-top: -40px;*/
+    margin-top: 10px;
+}
